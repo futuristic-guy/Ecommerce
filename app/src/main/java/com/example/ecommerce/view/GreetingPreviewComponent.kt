@@ -9,7 +9,7 @@ import com.example.ecommerce.ui.theme.EcommerceTheme
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
-        text = "Hello $name!",
+        text = "Hello Dear $name!",
         modifier = modifier
     )
 }
